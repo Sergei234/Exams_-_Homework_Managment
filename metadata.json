@@ -1,0 +1,8 @@
+{
+  "name": "Tempo — Academic Deadline & Study Planner",
+  "description": "Smart academic deadline radar, safe-zone submission buffers, milestone study sprints, and accountability squads synced with Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
